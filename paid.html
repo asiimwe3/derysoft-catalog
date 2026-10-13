@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Payment status — DerySoft Store</title>
+<style>body{font-family:'Segoe UI',system-ui,sans-serif;background:#0d0f14;color:#e8e6e1;display:flex;min-height:100vh;align-items:center;justify-content:center;margin:0}
+.box{background:#14161d;border:1px solid #26262e;border-radius:12px;padding:40px;max-width:420px;text-align:center}
+.gold{color:#d4af37;font-weight:800;letter-spacing:1px;font-size:13px;text-transform:uppercase}
+h2{margin:10px 0 6px}
+a.btn{display:inline-block;margin-top:18px;background:#25d366;color:#062b12;font-weight:700;padding:12px 24px;border-radius:8px;text-decoration:none}
+#msg{margin-top:14px;color:#9a9a90;font-size:14px;line-height:1.5}</style></head>
+<body><div class="box">
+<div class="gold">DerySoft Store</div>
+<h2 id="title">Checking your payment…</h2>
+<p id="msg"></p>
+<a class="btn" id="go" style="display:none" href="#" target="_blank" rel="noopener">Proceed to vendor site →</a>
+<a class="btn" id="wa" style="background:none;border:1px solid #25d366;color:#25d366" href="https://wa.me/256762306675" target="_blank" rel="noopener">WhatsApp us</a>
+</div>
+<script>
+const p = new URLSearchParams(location.search);
+const ref = p.get('OrderTrackingId') || p.get('orderTrackingId') || '';
+let target = p.get('t') || '';
+try { target = target ? decodeURIComponent(target) : (sessionStorage.getItem('dsoft_target') || ''); } catch(e) { target = target || ''; }
+if (target) sessionStorage.setItem('dsoft_target', target);
+const set = (t,m) => { document.getElementById('title').textContent = t; document.getElementById('msg').textContent = m; };
+async function check(n){
+  const r = await fetch('/api/status?ref=' + encodeURIComponent(ref)).then(r => r.json()).catch(() => null);
+  const st = r && r.ok ? String(r.status || '').toUpperCase() : '';
+  if (st === 'COMPLETE' || st === 'COMPLETED' || st === 'COMPLETED_1') {
+    localStorage.setItem('dsoft_paid_until', String(Date.now() + 2592000000)); // 30-day pass
+    set('Payment received 🎉', 'Thank you! Access confirmed. Opening the vendor site…');
+    setTimeout(() => { if (target) location.href = target; }, 1500);
+    const g = document.getElementById('go'); g.style.display = 'inline-block'; g.href = target;
+    return;
+  }
+  if (n > 0) { set('Checking your payment…', 'Attempt ' + (13-n) + '/12 — PesaPal usually confirms within seconds.'); setTimeout(() => check(n-1), 10000); }
+  else set('Still pending…', 'If you have paid, WhatsApp us your confirmation and we will send the link immediately.');
+}
+if (!ref) { set('No payment reference found', 'If you have paid, WhatsApp us your confirmation.'); }
+else check(12);
+</script></body></html>
