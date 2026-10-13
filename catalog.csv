@@ -1,195 +1,195 @@
 category,name,use,official_link,price_model,installation_ugx
-GSM,SP Flash Tool,Flash MediaTek phones (Tecno Infinix itel Redmi MTK),https://spflashtool.com,free,20000
-GSM,Odin,Flash Samsung official firmware,https://odindownloader.com,free,20000
-GSM,SPD Upgrade Tool,Flash Spreadtrum/Unisoc phones,https://spreadtrum.com,free,20000
-GSM,QFIL,Flash Qualcomm devices,https://qfil.sourceforge.io,free,20000
-GSM,MiFlash,Flash Xiaomi devices,https://xiaomiflashtool.com,free,20000
-GSM,HiSuite,Huawei firmware and backup,https://consumer.huawei.com/en/support/hisuite,free,20000
-GSM,3uTools,iPhone flashing jailbreak and management,https://3u.com,free,20000
-GSM,iTunes,iPhone restore and backup,https://apple.com/itunes,free,20000
-GSM,UnlockTool,Network unlock FRP flashing all brands,https://unlocktool.net,yearly,30000
-GSM,Miracle Thunder,Flash unlock repair MTK Qualcomm SPD,https://miracle-box.net,dongle,60000
-GSM,UMT Pro,Unlock and flash module suite,https://umttool.com,dongle,60000
-GSM,Z3X Samsung Tool PRO,Samsung flash unlock repair,https://z3x-team.com,dongle,60000
-GSM,NCK Box Dongle,Multi-platform unlock and flash,https://nckdongle.com,dongle,60000
-GSM,MEDUSA Pro,EMMC chip repair and data extraction,https://medusabox.com,dongle,60000
-GSM,Z3X EasyJtag,EMMC programming chip repair,https://easy-jtag.com,dongle,60000
-GSM,Infinity Box CM2,Flash and repair MTK SPD,https://infinity-box.com,dongle,60000
-GSM,DC-Unlocker,Unlock modems routers and phones,https://dc-unlocker.com,credits,25000
-GSM,Tenorshare 4uKey,Remove screen lock Android iPhone,https://www.tenorshare.com/4ukey-android.html,one-time,35000
-GSM,Dr.Fone - Screen Unlock,Screen lock removal and phone utilities,https://drfone.wondershare.com,subscription,30000
-GSM,iMyFone LockWiper,Remove screen locks and Apple ID (owner-verified),https://passuncle.com,one-time,35000
-GSM,PassFab Activation Unlocker,iOS activation lock (owner proof required),https://passfab.com,one-time,35000
-GSM,Dr.Fone - Data Recovery,Recover deleted photos messages and files,https://drfone.wondershare.com/android/data-recovery.html,subscription,30000
-GSM,DiskDigger,Photo and file recovery from memory cards,https://diskdigger.org,one-time,35000
-GSM,iMyFone D-Back,iPhone data recovery,https://imyfone.com,one-time,35000
-GSM,Tenorshare ReiBoot,Fix iPhone Android boot loops,https://www.tenorshare.com/reiboot.html,one-time,35000
-GSM,FonePaw,Phone data recovery and transfer,https://fonepaw.com,subscription,30000
-GSM,Samsung FRP Tool,Remove FRP on Samsung models,https://samkey.org,yearly,30000
-GSM,SamKey,Samsung network unlock code reader,https://samkey.org,credits,25000
-GSM,GSM Aladdin,Flash and unlock MTK phones,https://gsm-aladdin.com,dongle,60000
-GSM,Lavanimate Chimera,Professional phone repair utility,https://chimera-tool.com,credits,25000
-GSM,Octopus Box,Samsung LG repair suite,https://octopusbox.com,dongle,60000
-GSM,EFT Pro Dongle,Unlock flash and repair all brands,https://eftpro.com,dongle,60000
-GSM,MRT Dongle,Unlock Chinese MTK phones,https://mrttool.com,dongle,60000
-GSM,Avengers Box,MTK unlock and repair,https://avengersbox.com,dongle,60000
-GSM,MobiKin Doctor,Android data recovery,https://mobikin.com,one-time,35000
-GSM,PhoneRescue,iOS and Android recovery,https://imobie.com/phonerescue,one-time,35000
-GSM,DroidKit,Android repair and recovery toolkit,https://imobie.com/droidkit,one-time,35000
-GSM,AnyFix,iOS system repair,https://imobie.com/anyfix,one-time,35000
-GSM,Wondershare MobileTrans,Transfer data between phones,https://mobiletrans.wondershare.com,one-time,35000
-GSM,Coolmuster Mobile Transfer,Cross-platform phone transfer,https://coolmuster.com,one-time,35000
-Vehicle,Launch X431 PRO,Full vehicle diagnostic scanner,https://x431.com,hardware,100000
-Vehicle,Autel MaxiCOM,Vehicle diagnostics and service,https://autel.com,hardware,100000
-Vehicle,OBD Auto Doctor,Personal OBD2 diagnostic software,https://obdautodoctor.com,one-time,35000
-Vehicle,AutoCom / Delphi Diagnostic,Car and truck diagnostics,https://delphiautologic.com,dongle,80000
-Vehicle,KESS V3,ECU chiptuning by OBD,https://aelproducts.com,dongle,80000
-Vehicle,KTAG,ECU tuning via bench,https://aelproducts.com,dongle,80000
-Vehicle,Autotuner,ECU and TCU tuning tool,https://autotuner-tech.com,dongle,80000
-Vehicle,PCMflash,PCM/ECU read and write,https://pcmflash.ru,credits,25000
-Vehicle,ECM Titanium,ECU remap editing software,https://swiftec.eu,one-time,35000
-Vehicle,WinOLS,ECU map editing professional,https://evc.de,one-time,35000
-Vehicle,Swiftec,ECU tuning software,https://swiftec.eu,one-time,35000
-Vehicle,Autohex III,BMW programming and coding,https://autohex2.com,dongle,80000
-Vehicle,Xhorse VVDI2,Key programming IMMO work,https://xhorse.co.uk,dongle,80000
-Vehicle,Xhorse VVDI Prog,EEPROM and ECU programming,https://xhorse.co.uk,dongle,80000
-Vehicle,Orange-5,EEPROM microcontroller programming,https://orange-5.com,dongle,80000
-Vehicle,TM Pro,Key programmer,https://tmprog.com,dongle,80000
-Vehicle,JDiag,Key and ECU programming,https://jdiag.com,dongle,80000
-Vehicle,Abrites AVDI,Advanced vehicle diagnostics,https://abrites.com,dongle,80000
-Vehicle,Foxwell NT,Handheld diagnostic scanners,https://foxwelltool.com,hardware,100000
-Vehicle,ThinkDiag,OBD dongle diagnostics,https://mythinkcar.com,hardware,100000
-Vehicle,Carly,OBD app diagnostics and coding,https://carly.com,subscription,30000
-Vehicle,Torque Pro,OBD2 Android app,https://torque-bhp.com,one-time,35000
-Vehicle,Forscan,Ford Mazda diagnostics,https://forscan.org,free,20000
-Vehicle,Techstream,Toyota diagnostics,https://techstream.org,free,20000
-Vehicle,VAG-COM VCDS,VW Audi diagnostics,https://ross-tech.com,one-time,35000
-Vehicle,GM Tech2Win,GM diagnostics,https://gmtech2.com,one-time,35000
-Office,Microsoft 365,Office apps and email cloud,https://microsoft.com/microsoft-365,subscription,30000
-Office,Microsoft Office 2024,Perpetual Office suite,https://microsoft.com/microsoft-365/buy/office,one-time,35000
-Office,Google Workspace,Business email and collaboration,https://workspace.google.com,subscription,30000
-Office,LibreOffice,Free office suite (paid support plans),https://libreoffice.org,free-with-paid-support,25000
-Office,Microsoft Windows 11 Pro,Operating system license,https://microsoft.com/windows,one-time,35000
-Office,Windows Server 2022,Server OS license,https://microsoft.com/windows-server,one-time,35000
-Office,Zoho Workplace,Office and mail suite,https://zoho.com/workplace,subscription,30000
-Office,OnlyOffice,Document editing suite,https://onlyoffice.com,subscription,30000
-Office,PDF Acrobat Pro,PDF editing and signing,https://acrobat.adobe.com,subscription,30000
-Office,Foxit PDF Editor,PDF editing,https://foxit.com,one-time,35000
-Office,Nitro PDF,PDF productivity,https://gonitro.com,one-time,35000
-Office,ABBYY FineReader,OCR document scanning,https://abbyy.com,one-time,35000
-Accounting,QuickBooks Desktop Pro,Small business accounting,https://quickbooks.intuit.com,one-time,35000
-Accounting,QuickBooks Online,Cloud accounting,https://quickbooks.intuit.com,subscription,30000
-Accounting,Sage 50,Accounting and payroll,https://sage.com/en-us/sage-business-cloud/accounting,one-time,35000
-Accounting,Xero,Cloud accounting,https://xero.com,subscription,30000
-Accounting,Zoho Books,Online accounting,https://zoho.com/books,subscription,30000
-Accounting,Wave,Small business accounting,https://waveapps.com,free-with-paid-support,25000
-Accounting,TallyPrime,Business accounting,https://tallysolutions.com,one-time,35000
-Accounting,Pastel Accounting,African market accounting,https://pastel.co.ug,one-time,35000
-Accounting,TurboCASH,Open-source accounting,https://turbocash.net,free-with-paid-support,25000
-Accounting,GnuCash,Personal and small business accounting,https://gnucash.org,free,20000
-Accounting,Odoo Accounting,ERP accounting module,https://odoo.com,subscription,30000
-Accounting,Xpress Accounts,Uganda-local accounting,https://xpressaccounts.com,subscription,30000
-Design,Adobe Photoshop,Image editing,https://adobe.com/products/photoshop,subscription,30000
-Design,Adobe Illustrator,Vector design,https://adobe.com/products/illustrator,subscription,30000
-Design,Adobe InDesign,Print layout design,https://adobe.com/products/indesign,subscription,30000
-Design,Adobe Lightroom,Photo editing and catalog,https://adobe.com/products/lightroom,subscription,30000
-Design,CorelDRAW Graphics Suite,Print and signage design,https://coreldraw.com,one-time,35000
-Design,CorelDRAW Technical Suite,Technical illustration,https://coreldraw.com,one-time,35000
-Design,Affinity Designer,Vector design,https://affinity.serif.com/designer,one-time,35000
-Design,Affinity Photo,Photo editing,https://affinity.serif.com/photo,one-time,35000
-Design,Canva Pro,Online design templates,https://canva.com/pro,subscription,30000
-Design,FlexiSIGN,Vinyl cutter and sign software,https://sai.com/flexi,subscription,30000
-Design,VinylMaster,Cutting plotter software,https://vinylmaster.net,one-time,35000
-Design,Easy Cut Studio, vinyl cutting design,https://easycutstudio.com,one-time,35000
-Design,SketchUp Pro,3D modeling,https://sketchup.com,subscription,30000
-Engineering,AutoCAD,2D and 3D CAD drafting,https://autodesk.com/products/autocad,subscription,30000
-Engineering,AutoCAD LT,2D drafting,https://autodesk.com/products/autocad-lt,subscription,30000
-Engineering,Revit,Building information modeling,https://autodesk.com/products/revit,subscription,30000
-Engineering,Civil 3D,Civil engineering design,https://autodesk.com/products/civil-3d,subscription,30000
-Engineering,ArchiCAD,Architecture design,https://graphisoft.com/archicad,subscription,30000
-Engineering,STAAD Pro,Structural analysis design,https://bentley.com/staad,one-time,80000
-Engineering,SAP2000,Structural analysis,https://csiamerica.com/products/sap2000,one-time,80000
-Engineering,ETABS,Building analysis design,https://csiamerica.com/products/etabs,one-time,80000
-Engineering,SAFE,Foundation and slab design,https://csiamerica.com/products/safe,one-time,80000
-Engineering,Tekla Structures,Steel and concrete detailing,https://tekla.com,subscription,30000
-Engineering,Navisworks,3D project review,https://autodesk.com/products/navisworks,subscription,30000
-Engineering,MS Project,Project management,https://microsoft.com/microsoft-365/project,subscription,30000
-Engineering,Primavera P6,Enterprise project management,https://oracle.com/primavera,one-time,80000
-Engineering,Fusion 360,3D CAD CAM,https://autodesk.com/products/fusion-360,subscription,30000
-Engineering,ProtaStructure,Building design,https://protapoint.com,one-time,80000
-Engineering,RAM Structural,System design,https://bentley.com,one-time,80000
-Video,Adobe Premiere Pro,Video editing,https://adobe.com/products/premiere,subscription,30000
-Video,Final Cut Pro,Mac video editing,https://apple.com/final-cut-pro,one-time,35000
-Video,DaVinci Resolve Studio,Professional video edit and color,https://blackmagicdesign.com/products/davinciresolve,one-time,35000
-Video,Adobe After Effects,Motion graphics,https://adobe.com/products/aftereffects,subscription,30000
-Video,Camtasia,Screen recording and editing,https://techsmith.com/camtasia,one-time,35000
-Video,Filmora,Easy video editing,https://filmora.wondershare.com,subscription,30000
-Video,Corel VideoStudio,Video editing,https://videostudiopro.com,one-time,35000
-Video,VEGAS Pro,Video editing,https://vegасcreativesoftware.com,one-time,35000
-Video,Snagit,Screen capture,https://techsmith.com/snagit,one-time,35000
-Video,Capture One,Pro photo editing,https://captureone.com,subscription,30000
-Security,ESET NOD32,Antivirus protection,https://eset.com,yearly,30000
-Security,Kaspersky Total Security,Antivirus suite,https://kaspersky.com,yearly,30000
-Security,Bitdefender Total Security,Antivirus suite,https://bitdefender.com,yearly,30000
-Security,Norton 360,Full security suite,https://norton.com,yearly,30000
-Security,Avast Premium,Antivirus,https://avast.com,yearly,30000
-Security,McAfee Total Protection,Antivirus suite,https://mcafee.com,yearly,30000
-Security,Malwarebytes,Malware removal,https://malwarebytes.com,yearly,30000
-Security,Acronis True Image,Backup and security,https://acronis.com,yearly,30000
-Security,WinRAR,Archive encryption,https://rarlab.com,one-time,35000
-Security,7-Zip,Archive manager,https://7-zip.org,free-with-paid-support,25000
-Utilities,AOMEI Backupper,Backup and clone,https://aomeitech.com,one-time,35000
-Utilities,Macrium Reflect,Disk imaging backup,https://macrium.com,one-time,35000
-Utilities,EaseUS Todo Backup,Backup recovery,https://easeus.com/backup-software,one-time,35000
-Utilities,Minitool Partition Wizard,Disk partitioning,https://partitionwizard.com,one-time,35000
-Utilities,EaseUS Partition Master,Disk partitioning,https://easeus.com/partition-manager,one-time,35000
-Utilities,EaseUS Data Recovery Wizard,File recovery,https://easeus.com/data-recovery-software,one-time,35000
-Utilities,R-Studio,Professional data recovery,https://r-studio.com,one-time,35000
-Utilities,DMDE,Low-level data recovery,https://dmde.com,one-time,35000
-Utilities,Recuva,Simple file recovery,https://ccleaner.com/recuva,free,20000
-Utilities,CCleaner Pro,PC cleanup,https://ccleaner.com,yearly,30000
-Utilities,Revo Uninstaller Pro,Complete program removal,https://revouninstaller.com,one-time,35000
-Utilities,IObit Driver Booster,Driver updates,https://iobit.com/driver-booster.php,yearly,30000
-Utilities,NirSoft utilities,System tools collection,https://nirsoft.net,free,20000
-Networking,Advanced IP Scanner,Network discovery,https://advanced-ip-scanner.com,free,20000
-Networking,Wireshark,Network packet analysis,https://wireshark.org,free-with-paid-support,25000
-Networking,SolarWinds Network Performance Monitor,Network monitoring,https://solarwinds.com,subscription,30000
-Networking,NetSpot,WiFi analysis and mapping,https://netspotapp.com,one-time,35000
-Networking,Hikvision iVMS-5200,CCTV management,https://hikvision.com,free-with-paid-support,25000
-Networking,Milestone XProtect Express,CCTV VMS,https://milestonesys.com,one-time,35000
-Networking,Blue Iris,CCTV recording software,https://blueirissoftware.com,one-time,35000
-Networking,DU Meter,Bandwidth monitoring,https://hageltech.com,one-time,35000
-Remote,TeamViewer,Remote access and support,https://teamviewer.com,subscription,30000
-Remote,AnyDesk,Remote desktop,https://anydesk.com,subscription,30000
-Remote,Chrome Remote Desktop,Free remote access,https://remotedesktop.google.com,free,20000
-Remote,RustDesk,Open-source remote access,https://rustdesk.com,free-with-paid-support,25000
-Remote,RemotePC,Remote access,https://remotepc.com,subscription,30000
-Remote,Ammyy Admin,Remote support,https://ammyy.com,one-time,35000
-Education,Camtasia for Education,Course video creation,https://techsmith.com/education,one-time,35000
-Education,Articulate 360,E-learning authoring,https://articulate.com,subscription,30000
-Education,iSpring Suite,E-learning authoring,https://ispringsolutions.com,one-time,35000
-Education,Moodle,LMS hosting and support,https://moodle.com,free-with-paid-support,25000
-Education,Kahoot EDU,Interactive learning,https://kahoot.com,subscription,30000
-Education,Google Workspace for Education,School email and classroom,https://edu.google.com,free-with-paid-support,25000
-Education,Scratch Desktop,Coding for kids,https://scratch.mit.edu,free,20000
-Education,TypingMaster,Typing training,https://typingmaster.com,one-time,35000
-Health,Helix EMR,Hospital management,https://helixapp.com,subscription,30000
-Health,Bahmni,Hospital ERP (hosting and support),https://bahmni.org,free-with-paid-support,25000
-Health,HIS Suite,Clinic management,https://hissuite.co.ug,subscription,30000
-Health,OpenMRS,Medical records system (support),https://openmrs.org,free-with-paid-support,25000
-POS,Vend (Lightspeed X-Series),Retail POS,https://lightspeedhq.com,subscription,30000
-POS,Odoo POS,Retail point of sale,https://odoo.com/page/point-of-sale,subscription,30000
-POS,Hike POS,Retail point of sale,https://hikepos.com,subscription,30000
-POS, Loyverse POS,Retail POS free tier,https://loyverse.com,free-with-paid-support,25000
-POS,Erply POS,Retail POS,https://erply.com,subscription,30000
-Web,JetBrains IDEs,Developer tools (WebStorm PhpStorm),https://jetbrains.com,yearly,30000
-Web,Sublime Text,Code editor,https://sublimetext.com,one-time,35000
-Web,Bootstrap Studio,Website builder,https://bootstrapstudio.io,one-time,35000
-Web,Bubble,No-code app builder,https://bubble.io,subscription,30000
-Web,Webflow,Visual web builder,https://webflow.com,subscription,30000
-Web,Google Workspace Business,Web and email hosting,https://workspace.google.com,subscription,30000
-Web,WP Rocket,WordPress speed plugin,https://wp-rocket.me,yearly,30000
-Agriculture,FarmERP,Farm management,https://farmerp.com,subscription,30000
-Agriculture,Agrivi,Farm management,https://agrivi.com,subscription,30000
-Agriculture,Farmbrite,Farm records,https://farmbrite.com,subscription,30000
-Agriculture,Cropwise,Field and crop management,https://cropwise.com,subscription,30000
+GSM,SP Flash Tool,Flash MediaTek phones (Tecno Infinix itel Redmi MTK),https://spflashtool.com,free,150000
+GSM,Odin,Flash Samsung official firmware,https://odindownloader.com,free,150000
+GSM,SPD Upgrade Tool,Flash Spreadtrum/Unisoc phones,https://spreadtrum.com,free,150000
+GSM,QFIL,Flash Qualcomm devices,https://qfil.sourceforge.io,free,150000
+GSM,MiFlash,Flash Xiaomi devices,https://xiaomiflashtool.com,free,150000
+GSM,HiSuite,Huawei firmware and backup,https://consumer.huawei.com/en/support/hisuite,free,150000
+GSM,3uTools,iPhone flashing jailbreak and management,https://3u.com,free,150000
+GSM,iTunes,iPhone restore and backup,https://apple.com/itunes,free,150000
+GSM,UnlockTool,Network unlock FRP flashing all brands,https://unlocktool.net,yearly,200000
+GSM,Miracle Thunder,Flash unlock repair MTK Qualcomm SPD,https://miracle-box.net,dongle,300000
+GSM,UMT Pro,Unlock and flash module suite,https://umttool.com,dongle,300000
+GSM,Z3X Samsung Tool PRO,Samsung flash unlock repair,https://z3x-team.com,dongle,300000
+GSM,NCK Box Dongle,Multi-platform unlock and flash,https://nckdongle.com,dongle,300000
+GSM,MEDUSA Pro,EMMC chip repair and data extraction,https://medusabox.com,dongle,300000
+GSM,Z3X EasyJtag,EMMC programming chip repair,https://easy-jtag.com,dongle,300000
+GSM,Infinity Box CM2,Flash and repair MTK SPD,https://infinity-box.com,dongle,300000
+GSM,DC-Unlocker,Unlock modems routers and phones,https://dc-unlocker.com,credits,150000
+GSM,Tenorshare 4uKey,Remove screen lock Android iPhone,https://www.tenorshare.com/4ukey-android.html,one-time,250000
+GSM,Dr.Fone - Screen Unlock,Screen lock removal and phone utilities,https://drfone.wondershare.com,subscription,200000
+GSM,iMyFone LockWiper,Remove screen locks and Apple ID (owner-verified),https://passuncle.com,one-time,250000
+GSM,PassFab Activation Unlocker,iOS activation lock (owner proof required),https://passfab.com,one-time,250000
+GSM,Dr.Fone - Data Recovery,Recover deleted photos messages and files,https://drfone.wondershare.com/android/data-recovery.html,subscription,200000
+GSM,DiskDigger,Photo and file recovery from memory cards,https://diskdigger.org,one-time,250000
+GSM,iMyFone D-Back,iPhone data recovery,https://imyfone.com,one-time,250000
+GSM,Tenorshare ReiBoot,Fix iPhone Android boot loops,https://www.tenorshare.com/reiboot.html,one-time,250000
+GSM,FonePaw,Phone data recovery and transfer,https://fonepaw.com,subscription,200000
+GSM,Samsung FRP Tool,Remove FRP on Samsung models,https://samkey.org,yearly,200000
+GSM,SamKey,Samsung network unlock code reader,https://samkey.org,credits,150000
+GSM,GSM Aladdin,Flash and unlock MTK phones,https://gsm-aladdin.com,dongle,300000
+GSM,Lavanimate Chimera,Professional phone repair utility,https://chimera-tool.com,credits,150000
+GSM,Octopus Box,Samsung LG repair suite,https://octopusbox.com,dongle,300000
+GSM,EFT Pro Dongle,Unlock flash and repair all brands,https://eftpro.com,dongle,300000
+GSM,MRT Dongle,Unlock Chinese MTK phones,https://mrttool.com,dongle,300000
+GSM,Avengers Box,MTK unlock and repair,https://avengersbox.com,dongle,300000
+GSM,MobiKin Doctor,Android data recovery,https://mobikin.com,one-time,250000
+GSM,PhoneRescue,iOS and Android recovery,https://imobie.com/phonerescue,one-time,250000
+GSM,DroidKit,Android repair and recovery toolkit,https://imobie.com/droidkit,one-time,250000
+GSM,AnyFix,iOS system repair,https://imobie.com/anyfix,one-time,250000
+GSM,Wondershare MobileTrans,Transfer data between phones,https://mobiletrans.wondershare.com,one-time,250000
+GSM,Coolmuster Mobile Transfer,Cross-platform phone transfer,https://coolmuster.com,one-time,250000
+Vehicle,Launch X431 PRO,Full vehicle diagnostic scanner,https://x431.com,hardware,400000
+Vehicle,Autel MaxiCOM,Vehicle diagnostics and service,https://autel.com,hardware,400000
+Vehicle,OBD Auto Doctor,Personal OBD2 diagnostic software,https://obdautodoctor.com,one-time,250000
+Vehicle,AutoCom / Delphi Diagnostic,Car and truck diagnostics,https://delphiautologic.com,dongle,350000
+Vehicle,KESS V3,ECU chiptuning by OBD,https://aelproducts.com,dongle,350000
+Vehicle,KTAG,ECU tuning via bench,https://aelproducts.com,dongle,350000
+Vehicle,Autotuner,ECU and TCU tuning tool,https://autotuner-tech.com,dongle,350000
+Vehicle,PCMflash,PCM/ECU read and write,https://pcmflash.ru,credits,150000
+Vehicle,ECM Titanium,ECU remap editing software,https://swiftec.eu,one-time,250000
+Vehicle,WinOLS,ECU map editing professional,https://evc.de,one-time,250000
+Vehicle,Swiftec,ECU tuning software,https://swiftec.eu,one-time,250000
+Vehicle,Autohex III,BMW programming and coding,https://autohex2.com,dongle,350000
+Vehicle,Xhorse VVDI2,Key programming IMMO work,https://xhorse.co.uk,dongle,350000
+Vehicle,Xhorse VVDI Prog,EEPROM and ECU programming,https://xhorse.co.uk,dongle,350000
+Vehicle,Orange-5,EEPROM microcontroller programming,https://orange-5.com,dongle,350000
+Vehicle,TM Pro,Key programmer,https://tmprog.com,dongle,350000
+Vehicle,JDiag,Key and ECU programming,https://jdiag.com,dongle,350000
+Vehicle,Abrites AVDI,Advanced vehicle diagnostics,https://abrites.com,dongle,350000
+Vehicle,Foxwell NT,Handheld diagnostic scanners,https://foxwelltool.com,hardware,400000
+Vehicle,ThinkDiag,OBD dongle diagnostics,https://mythinkcar.com,hardware,400000
+Vehicle,Carly,OBD app diagnostics and coding,https://carly.com,subscription,200000
+Vehicle,Torque Pro,OBD2 Android app,https://torque-bhp.com,one-time,250000
+Vehicle,Forscan,Ford Mazda diagnostics,https://forscan.org,free,150000
+Vehicle,Techstream,Toyota diagnostics,https://techstream.org,free,150000
+Vehicle,VAG-COM VCDS,VW Audi diagnostics,https://ross-tech.com,one-time,250000
+Vehicle,GM Tech2Win,GM diagnostics,https://gmtech2.com,one-time,250000
+Office,Microsoft 365,Office apps and email cloud,https://microsoft.com/microsoft-365,subscription,200000
+Office,Microsoft Office 2024,Perpetual Office suite,https://microsoft.com/microsoft-365/buy/office,one-time,250000
+Office,Google Workspace,Business email and collaboration,https://workspace.google.com,subscription,200000
+Office,LibreOffice,Free office suite (paid support plans),https://libreoffice.org,free-with-paid-support,150000
+Office,Microsoft Windows 11 Pro,Operating system license,https://microsoft.com/windows,one-time,250000
+Office,Windows Server 2022,Server OS license,https://microsoft.com/windows-server,one-time,250000
+Office,Zoho Workplace,Office and mail suite,https://zoho.com/workplace,subscription,200000
+Office,OnlyOffice,Document editing suite,https://onlyoffice.com,subscription,200000
+Office,PDF Acrobat Pro,PDF editing and signing,https://acrobat.adobe.com,subscription,200000
+Office,Foxit PDF Editor,PDF editing,https://foxit.com,one-time,250000
+Office,Nitro PDF,PDF productivity,https://gonitro.com,one-time,250000
+Office,ABBYY FineReader,OCR document scanning,https://abbyy.com,one-time,250000
+Accounting,QuickBooks Desktop Pro,Small business accounting,https://quickbooks.intuit.com,one-time,250000
+Accounting,QuickBooks Online,Cloud accounting,https://quickbooks.intuit.com,subscription,200000
+Accounting,Sage 50,Accounting and payroll,https://sage.com/en-us/sage-business-cloud/accounting,one-time,250000
+Accounting,Xero,Cloud accounting,https://xero.com,subscription,200000
+Accounting,Zoho Books,Online accounting,https://zoho.com/books,subscription,200000
+Accounting,Wave,Small business accounting,https://waveapps.com,free-with-paid-support,150000
+Accounting,TallyPrime,Business accounting,https://tallysolutions.com,one-time,250000
+Accounting,Pastel Accounting,African market accounting,https://pastel.co.ug,one-time,250000
+Accounting,TurboCASH,Open-source accounting,https://turbocash.net,free-with-paid-support,150000
+Accounting,GnuCash,Personal and small business accounting,https://gnucash.org,free,150000
+Accounting,Odoo Accounting,ERP accounting module,https://odoo.com,subscription,200000
+Accounting,Xpress Accounts,Uganda-local accounting,https://xpressaccounts.com,subscription,200000
+Design,Adobe Photoshop,Image editing,https://adobe.com/products/photoshop,subscription,200000
+Design,Adobe Illustrator,Vector design,https://adobe.com/products/illustrator,subscription,200000
+Design,Adobe InDesign,Print layout design,https://adobe.com/products/indesign,subscription,200000
+Design,Adobe Lightroom,Photo editing and catalog,https://adobe.com/products/lightroom,subscription,200000
+Design,CorelDRAW Graphics Suite,Print and signage design,https://coreldraw.com,one-time,250000
+Design,CorelDRAW Technical Suite,Technical illustration,https://coreldraw.com,one-time,250000
+Design,Affinity Designer,Vector design,https://affinity.serif.com/designer,one-time,250000
+Design,Affinity Photo,Photo editing,https://affinity.serif.com/photo,one-time,250000
+Design,Canva Pro,Online design templates,https://canva.com/pro,subscription,200000
+Design,FlexiSIGN,Vinyl cutter and sign software,https://sai.com/flexi,subscription,200000
+Design,VinylMaster,Cutting plotter software,https://vinylmaster.net,one-time,250000
+Design,Easy Cut Studio, vinyl cutting design,https://easycutstudio.com,one-time,250000
+Design,SketchUp Pro,3D modeling,https://sketchup.com,subscription,200000
+Engineering,AutoCAD,2D and 3D CAD drafting,https://autodesk.com/products/autocad,subscription,200000
+Engineering,AutoCAD LT,2D drafting,https://autodesk.com/products/autocad-lt,subscription,200000
+Engineering,Revit,Building information modeling,https://autodesk.com/products/revit,subscription,200000
+Engineering,Civil 3D,Civil engineering design,https://autodesk.com/products/civil-3d,subscription,200000
+Engineering,ArchiCAD,Architecture design,https://graphisoft.com/archicad,subscription,200000
+Engineering,STAAD Pro,Structural analysis design,https://bentley.com/staad,one-time,350000
+Engineering,SAP2000,Structural analysis,https://csiamerica.com/products/sap2000,one-time,350000
+Engineering,ETABS,Building analysis design,https://csiamerica.com/products/etabs,one-time,350000
+Engineering,SAFE,Foundation and slab design,https://csiamerica.com/products/safe,one-time,350000
+Engineering,Tekla Structures,Steel and concrete detailing,https://tekla.com,subscription,200000
+Engineering,Navisworks,3D project review,https://autodesk.com/products/navisworks,subscription,200000
+Engineering,MS Project,Project management,https://microsoft.com/microsoft-365/project,subscription,200000
+Engineering,Primavera P6,Enterprise project management,https://oracle.com/primavera,one-time,350000
+Engineering,Fusion 360,3D CAD CAM,https://autodesk.com/products/fusion-360,subscription,200000
+Engineering,ProtaStructure,Building design,https://protapoint.com,one-time,350000
+Engineering,RAM Structural,System design,https://bentley.com,one-time,350000
+Video,Adobe Premiere Pro,Video editing,https://adobe.com/products/premiere,subscription,200000
+Video,Final Cut Pro,Mac video editing,https://apple.com/final-cut-pro,one-time,250000
+Video,DaVinci Resolve Studio,Professional video edit and color,https://blackmagicdesign.com/products/davinciresolve,one-time,250000
+Video,Adobe After Effects,Motion graphics,https://adobe.com/products/aftereffects,subscription,200000
+Video,Camtasia,Screen recording and editing,https://techsmith.com/camtasia,one-time,250000
+Video,Filmora,Easy video editing,https://filmora.wondershare.com,subscription,200000
+Video,Corel VideoStudio,Video editing,https://videostudiopro.com,one-time,250000
+Video,VEGAS Pro,Video editing,https://vegасcreativesoftware.com,one-time,250000
+Video,Snagit,Screen capture,https://techsmith.com/snagit,one-time,250000
+Video,Capture One,Pro photo editing,https://captureone.com,subscription,200000
+Security,ESET NOD32,Antivirus protection,https://eset.com,yearly,200000
+Security,Kaspersky Total Security,Antivirus suite,https://kaspersky.com,yearly,200000
+Security,Bitdefender Total Security,Antivirus suite,https://bitdefender.com,yearly,200000
+Security,Norton 360,Full security suite,https://norton.com,yearly,200000
+Security,Avast Premium,Antivirus,https://avast.com,yearly,200000
+Security,McAfee Total Protection,Antivirus suite,https://mcafee.com,yearly,200000
+Security,Malwarebytes,Malware removal,https://malwarebytes.com,yearly,200000
+Security,Acronis True Image,Backup and security,https://acronis.com,yearly,200000
+Security,WinRAR,Archive encryption,https://rarlab.com,one-time,250000
+Security,7-Zip,Archive manager,https://7-zip.org,free-with-paid-support,150000
+Utilities,AOMEI Backupper,Backup and clone,https://aomeitech.com,one-time,250000
+Utilities,Macrium Reflect,Disk imaging backup,https://macrium.com,one-time,250000
+Utilities,EaseUS Todo Backup,Backup recovery,https://easeus.com/backup-software,one-time,250000
+Utilities,Minitool Partition Wizard,Disk partitioning,https://partitionwizard.com,one-time,250000
+Utilities,EaseUS Partition Master,Disk partitioning,https://easeus.com/partition-manager,one-time,250000
+Utilities,EaseUS Data Recovery Wizard,File recovery,https://easeus.com/data-recovery-software,one-time,250000
+Utilities,R-Studio,Professional data recovery,https://r-studio.com,one-time,250000
+Utilities,DMDE,Low-level data recovery,https://dmde.com,one-time,250000
+Utilities,Recuva,Simple file recovery,https://ccleaner.com/recuva,free,150000
+Utilities,CCleaner Pro,PC cleanup,https://ccleaner.com,yearly,200000
+Utilities,Revo Uninstaller Pro,Complete program removal,https://revouninstaller.com,one-time,250000
+Utilities,IObit Driver Booster,Driver updates,https://iobit.com/driver-booster.php,yearly,200000
+Utilities,NirSoft utilities,System tools collection,https://nirsoft.net,free,150000
+Networking,Advanced IP Scanner,Network discovery,https://advanced-ip-scanner.com,free,150000
+Networking,Wireshark,Network packet analysis,https://wireshark.org,free-with-paid-support,150000
+Networking,SolarWinds Network Performance Monitor,Network monitoring,https://solarwinds.com,subscription,200000
+Networking,NetSpot,WiFi analysis and mapping,https://netspotapp.com,one-time,250000
+Networking,Hikvision iVMS-5200,CCTV management,https://hikvision.com,free-with-paid-support,150000
+Networking,Milestone XProtect Express,CCTV VMS,https://milestonesys.com,one-time,250000
+Networking,Blue Iris,CCTV recording software,https://blueirissoftware.com,one-time,250000
+Networking,DU Meter,Bandwidth monitoring,https://hageltech.com,one-time,250000
+Remote,TeamViewer,Remote access and support,https://teamviewer.com,subscription,200000
+Remote,AnyDesk,Remote desktop,https://anydesk.com,subscription,200000
+Remote,Chrome Remote Desktop,Free remote access,https://remotedesktop.google.com,free,150000
+Remote,RustDesk,Open-source remote access,https://rustdesk.com,free-with-paid-support,150000
+Remote,RemotePC,Remote access,https://remotepc.com,subscription,200000
+Remote,Ammyy Admin,Remote support,https://ammyy.com,one-time,250000
+Education,Camtasia for Education,Course video creation,https://techsmith.com/education,one-time,250000
+Education,Articulate 360,E-learning authoring,https://articulate.com,subscription,200000
+Education,iSpring Suite,E-learning authoring,https://ispringsolutions.com,one-time,250000
+Education,Moodle,LMS hosting and support,https://moodle.com,free-with-paid-support,150000
+Education,Kahoot EDU,Interactive learning,https://kahoot.com,subscription,200000
+Education,Google Workspace for Education,School email and classroom,https://edu.google.com,free-with-paid-support,150000
+Education,Scratch Desktop,Coding for kids,https://scratch.mit.edu,free,150000
+Education,TypingMaster,Typing training,https://typingmaster.com,one-time,250000
+Health,Helix EMR,Hospital management,https://helixapp.com,subscription,200000
+Health,Bahmni,Hospital ERP (hosting and support),https://bahmni.org,free-with-paid-support,150000
+Health,HIS Suite,Clinic management,https://hissuite.co.ug,subscription,200000
+Health,OpenMRS,Medical records system (support),https://openmrs.org,free-with-paid-support,150000
+POS,Vend (Lightspeed X-Series),Retail POS,https://lightspeedhq.com,subscription,200000
+POS,Odoo POS,Retail point of sale,https://odoo.com/page/point-of-sale,subscription,200000
+POS,Hike POS,Retail point of sale,https://hikepos.com,subscription,200000
+POS, Loyverse POS,Retail POS free tier,https://loyverse.com,free-with-paid-support,150000
+POS,Erply POS,Retail POS,https://erply.com,subscription,200000
+Web,JetBrains IDEs,Developer tools (WebStorm PhpStorm),https://jetbrains.com,yearly,200000
+Web,Sublime Text,Code editor,https://sublimetext.com,one-time,250000
+Web,Bootstrap Studio,Website builder,https://bootstrapstudio.io,one-time,250000
+Web,Bubble,No-code app builder,https://bubble.io,subscription,200000
+Web,Webflow,Visual web builder,https://webflow.com,subscription,200000
+Web,Google Workspace Business,Web and email hosting,https://workspace.google.com,subscription,200000
+Web,WP Rocket,WordPress speed plugin,https://wp-rocket.me,yearly,200000
+Agriculture,FarmERP,Farm management,https://farmerp.com,subscription,200000
+Agriculture,Agrivi,Farm management,https://agrivi.com,subscription,200000
+Agriculture,Farmbrite,Farm records,https://farmbrite.com,subscription,200000
+Agriculture,Cropwise,Field and crop management,https://cropwise.com,subscription,200000
